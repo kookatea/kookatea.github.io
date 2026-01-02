@@ -49,8 +49,10 @@ languages:
         subtitle: "KooK@Tea — where a kook watches the world like a cat, over tea"
         buttons:
           - name: ☆PEEK☆
+            title: Today’s Special at KooK@Tea
             url: 
           - name: ๑NEW๑
+            title: What’s new
             url: 
 
 
