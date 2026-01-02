@@ -101,18 +101,21 @@ params:
       👋 Welcome to Kerwin's Homepage!
 
   socialIcons:
-    - name: medium
-      title: View my blogs
-      url: "https://medium.com/@kerwin.p.lau"
-    - name: email
-      title: Send Email to Me
-      url: "mailto:xiang.liao@grad.moore.sc.edu"     
-    - name: linkedin
-      title: View My Profile on LinkedIn
-      url: "https://www.linkedin.com/in/kerwinlau/"
-    - name: googlescholar
-      title: See My Pulications
-      url: "https://scholar.google.com/citations?user=Uo8GZckAAAAJ&hl=en"
+    - name: substack
+      title: SubStack
+      url: "https://kooktea.substack.com/"
+    - name: instagram
+      title: Instagram
+      url:   
+    - name: kofi
+      title: Buy me a Coffee
+      url: "https://buymeacoffee.com/kookatea"
+    - name: bilibili
+      title: Bilibili
+      url: "https://space.bilibili.com/227308776?spm_id_from=333.1007.0.0"
+    - name: youtube
+      title: YouTube
+      url: "https://www.youtube.com/@KooKaTea"   
 
 
   editPost:
