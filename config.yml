@@ -48,11 +48,9 @@ languages:
         # imageHeight: 120
         subtitle: "KooK@Tea — where a kook watches the world like a cat, over tea"
         buttons:
-          - name: ☆PEEK☆
-            title: Today’s Special at KooK@Tea
+          - name: ☆House Special☆
             url: 
-          - name: ๑NEW๑
-            title: What’s new
+          - name: ๑What's NEW๑
             url: 
 
 
