@@ -112,10 +112,13 @@ params:
       url: "https://buymeacoffee.com/kookatea"
     - name: bilibili
       title: Bilibili
-      url: "https://space.bilibili.com/227308776?spm_id_from=333.1007.0.0"
+      url: "https://space.bilibili.com/227308776"
     - name: youtube
       title: YouTube
-      url: "https://www.youtube.com/@KooKaTea"   
+      url: "https://www.youtube.com/@KooKaTea" 
+    - name: bandcamp
+      title: Bandcamp
+      url: "https://kookatea.bandcamp.com/"
 
 
   editPost:
