@@ -102,23 +102,27 @@ params:
 
   socialIcons:
     - name: substack
-      title: SubStack
+      title: Novels and Comics
       url: "https://kooktea.substack.com/"
-    - name: instagram
-      title: Instagram
-      url:   
-    - name: kofi
-      title: Buy me a Coffee
-      url: "https://buymeacoffee.com/kookatea"
-    - name: bilibili
-      title: Bilibili
-      url: "https://space.bilibili.com/227308776"
     - name: youtube
-      title: YouTube
+      title: Watch Animations
       url: "https://www.youtube.com/@KooKaTea" 
     - name: bandcamp
-      title: Bandcamp
+      title: Listen to my Music
       url: "https://kookatea.bandcamp.com/"
+    - name: bilibili
+      title: Animations, but in Chinese
+      url: "https://space.bilibili.com/227308776"
+    - name: instagram
+      title: Instagram
+      url:
+    - name: x
+      title: X/Twitter
+      url:      
+    - name: kofi
+      title: Connect and Catch up with my unorthodox thoughts
+      url: "https://buymeacoffee.com/kookatea"
+    
 
 
   editPost:
