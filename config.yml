@@ -105,13 +105,13 @@ params:
       title: Novels and Comics
       url: "https://kooktea.substack.com/"
     - name: youtube
-      title: Watch Animations
+      title: Animations
       url: "https://www.youtube.com/@KooKaTea" 
     - name: bandcamp
-      title: Listen to my Music
+      title: Ambient Music
       url: "https://kookatea.bandcamp.com/"
     - name: bilibili
-      title: Animations, but in Chinese
+      title: Animations, in Chinese
       url: "https://space.bilibili.com/227308776"
     - name: instagram
       title: Instagram
